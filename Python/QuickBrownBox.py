@@ -1,4 +1,4 @@
-// https://open.kattis.com/problems/quickbrownfox
+# https://open.kattis.com/problems/quickbrownfox
 
 import string
 
