@@ -4,6 +4,7 @@ In this Repository, you'll find Kattis Questions Solved by me in 3 languages:
   1. Java
   2. C++
   3. C
+  4. Python
 
 You will find the link to each question commented on top of every file. 
 
