@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CD {
+namespace aboveAverage {
 
     class Kattis {
 
