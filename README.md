@@ -74,7 +74,7 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 
 <br/>
 
-<p align="center">
+<center>
 
 | 136 Problems | Languages |
 | - | - |
@@ -216,7 +216,7 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 | [Zamka](https://open.kattis.com/problems/zamka) | [C++](https://github.com/divyashC/kattis-solutions/blob/master/C%2B%2B/zamka.cpp) |
 
 	
-</p>
+</center>
 
 *Some solutions may not be efficient though it works.*
 
