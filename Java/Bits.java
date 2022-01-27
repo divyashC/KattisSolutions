@@ -1,4 +1,4 @@
-https://open.kattis.com/problems/bits
+// https://open.kattis.com/problems/bits
 
 import java.util.Scanner;
 
