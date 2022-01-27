@@ -1,3 +1,4 @@
+// Job Expenses
 /* https://open.kattis.com/problems/jobexpenses */
 
 #include <stdio.h>

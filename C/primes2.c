@@ -1,3 +1,4 @@
+/* Problem - Black Board Numbers*/
 /* https://open.kattis.com/problems/primes2 */
 
 #include <stdio.h>

@@ -1,3 +1,4 @@
+// Piece of Cake!
 /* https://open.kattis.com/problems/pieceofcake2 */
 
 #include <stdio.h>

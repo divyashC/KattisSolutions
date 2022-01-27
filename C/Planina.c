@@ -1,4 +1,5 @@
-/* https://open.kattis.com/problems/pieceofcake2 */
+// Plania
+/* https://open.kattis.com/problems/planina */
 
 #include <stdio.h>
 #include <math.h>

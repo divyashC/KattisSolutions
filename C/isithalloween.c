@@ -1,3 +1,4 @@
+// Is it Halloween
 /* https://open.kattis.com/problems/isithalloween */
 
 #include <stdio.h>

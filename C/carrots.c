@@ -1,3 +1,4 @@
+// Solving for Carrots
 /* https://open.kattis.com/problems/carrots */
 
 #include <stdio.h>

@@ -1,3 +1,4 @@
+// Ladder
 /* https://open.kattis.com/problems/ladder */
 
 #include <stdio.h>

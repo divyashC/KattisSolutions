@@ -1,3 +1,4 @@
+// License To Launch
 /* https://open.kattis.com/problems/licensetolaunch */
 
 #include <stdio.h>

@@ -1,3 +1,4 @@
+// Last Factorial Digit
 /* https://open.kattis.com/problems/lastfactorialdigit */
 
 #include <stdio.h>

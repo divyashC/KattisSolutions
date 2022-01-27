@@ -1,3 +1,4 @@
+// Harshad Numbers
 /* https://open.kattis.com/problems/harshadnumbers */
 
 #include <stdio.h>

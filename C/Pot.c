@@ -1,3 +1,4 @@
+// Pot
 /* https://open.kattis.com/problems/pot */
 
 #include <stdio.h>

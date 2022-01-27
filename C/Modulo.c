@@ -1,3 +1,4 @@
+// Modulo
 /* https://open.kattis.com/problems/modulo */
 
 #include <stdio.h>

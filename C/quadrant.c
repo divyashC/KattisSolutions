@@ -1,3 +1,4 @@
+// Quadrant Selection
 /* https://open.kattis.com/problems/quadrant */
 
 #include <stdio.h>

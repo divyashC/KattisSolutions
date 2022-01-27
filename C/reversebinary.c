@@ -1,3 +1,4 @@
+// Reversed Binary Number
 /* https://open.kattis.com/problems/reversebinary */
 
 #include <stdio.h>

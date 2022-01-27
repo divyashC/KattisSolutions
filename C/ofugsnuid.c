@@ -1,3 +1,4 @@
+// Reverse
 /* https://open.kattis.com/problems/ofugsnuid */
 
 #include <stdio.h>
