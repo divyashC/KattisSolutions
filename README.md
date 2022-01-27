@@ -36,6 +36,8 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 
 ## Get in touch with me on:
 
+<br/>
+
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
   <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40"/>     
@@ -69,6 +71,10 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 <br/>
 
 ## Reference Table 
+
+<br/>
+
+<p align="center">
 
 | 136 Problems | Languages |
 | - | - |
@@ -208,4 +214,10 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 | [WERTYU](https://open.kattis.com/problems/wertyu) | [Java](https://github.com/divyashC/kattis-solutions/blob/master/Java/wertyu.java) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](https://github.com/divyashC/kattis-solutions/blob/master/Java/wordsfornumbers.java) |
 | [Zamka](https://open.kattis.com/problems/zamka) | [C++](https://github.com/divyashC/kattis-solutions/blob/master/C%2B%2B/zamka.cpp) |
+	
+</p>
 
+*Some solutions may not be efficient though it works.*
+
+Thank you, hope this helped you in one way or the other
+<br/>
