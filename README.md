@@ -1,4 +1,4 @@
-# KattisSolutions
+# Kattis Solutions
 
 This repository consists of all the Kattis questions I solved using 5 languages. The repository will be updated everytime I solve new questions. I might even solve questions in other languages in the future but currently I am sticking with Python. You might find more solutions in python from now on.
 
