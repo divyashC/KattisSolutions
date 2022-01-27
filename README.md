@@ -74,7 +74,8 @@ This repository consists of all the Kattis questions I solved using 5 languages.
 
 <br/>
 
-*Click on the Problem Name to get redirected to the Question in [Kattis Website](https://open.kattis.com)*
+*Click on the Problem Name to get redirected to the Question in [Kattis Website](https://open.kattis.com)*  
+
 *Click on the Programming Language name to get redirected to solution file in this repository*
 
 <center>
