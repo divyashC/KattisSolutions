@@ -1,3 +1,4 @@
+# Another Candies
 # https://open.kattis.com/problems/anothercandies
 
 t = int(input())

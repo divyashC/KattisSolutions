@@ -1,3 +1,4 @@
+# Echo Echo
 # https://open.kattis.com/problems/echoechoecho
 
 word = input().strip()

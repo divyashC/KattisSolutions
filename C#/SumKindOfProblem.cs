@@ -1,3 +1,4 @@
+// Sum Kind of Problem
 // https://open.kattis.com/problems/sumkindofproblem
 
 using System;

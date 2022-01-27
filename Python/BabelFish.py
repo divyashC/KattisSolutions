@@ -1,3 +1,4 @@
+# Babel Fish
 # https://open.kattis.com/problems/babelfish
 
 import sys

@@ -1,3 +1,4 @@
+# A list Game
 # https://open.kattis.com/problems/listgame
 
 def points(x):

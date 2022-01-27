@@ -1,3 +1,4 @@
+// A New Alphabet
 // https://open.kattis.com/problems/anewalphabet
 
 using System;

@@ -1,3 +1,4 @@
+# Akcija
 # https://open.kattis.com/problems/akcija
 
 n = int(input())

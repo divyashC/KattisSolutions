@@ -1,3 +1,4 @@
+# Line Them up
 # https://open.kattis.com/problems/lineup
 
 n = int(input())

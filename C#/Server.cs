@@ -1,3 +1,4 @@
+// Server
 // https://open.kattis.com/problems/server
 
 using System;
